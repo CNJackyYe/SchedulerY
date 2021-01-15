@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulerY", "SchedulerY\SchedulerY.csproj", "{502950F6-9ED3-4DC4-A761-C2E727EA93AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502950F6-9ED3-4DC4-A761-C2E727EA93AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502950F6-9ED3-4DC4-A761-C2E727EA93AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502950F6-9ED3-4DC4-A761-C2E727EA93AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502950F6-9ED3-4DC4-A761-C2E727EA93AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
